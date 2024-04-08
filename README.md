@@ -1,6 +1,7 @@
 ## Two-stage GPN
 
 ### Reference
+Iida, Satoko, and Ryota Yasudo. "Solving the QAP by Two-Stage Graph Pointer Networks and Reinforcement Learning." arXiv preprint arXiv:2404.00539 (2024).
 
 ### Usage
 #### Training
